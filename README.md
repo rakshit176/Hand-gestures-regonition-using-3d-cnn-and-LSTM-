@@ -43,4 +43,11 @@ Swiping Left = press hotkey(shift +P ) ,
 Swiping Right = hotkey(shift +N )
 
 
+Grayscaled images:
+
+![image](https://user-images.githubusercontent.com/68324365/125243676-0650bf80-e30c-11eb-9983-84d48de8c8e1.png)
+
+Acurray in graph:
+
+![image](https://user-images.githubusercontent.com/68324365/125243725-19638f80-e30c-11eb-8b95-49a285dab4c6.png)
 
